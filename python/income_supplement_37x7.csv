@@ -1,0 +1,260 @@
+Country,Year,Income_Level
+Albania,2017,1
+Albania,2018,1
+Albania,2019,1
+Albania,2020,1
+Albania,2021,1
+Albania,2022,1
+Albania,2023,1
+Algeria,2017,0
+Algeria,2018,0
+Algeria,2019,0
+Algeria,2020,0
+Algeria,2021,0
+Algeria,2022,0
+Algeria,2023,0
+Bahrain,2017,1
+Bahrain,2018,1
+Bahrain,2019,1
+Bahrain,2020,1
+Bahrain,2021,1
+Bahrain,2022,1
+Bahrain,2023,1
+Bangladesh,2017,0
+Bangladesh,2018,0
+Bangladesh,2019,0
+Bangladesh,2020,0
+Bangladesh,2021,0
+Bangladesh,2022,0
+Bangladesh,2023,0
+Benin,2017,0
+Benin,2018,0
+Benin,2019,0
+Benin,2020,0
+Benin,2021,0
+Benin,2022,0
+Benin,2023,0
+Burkina Faso,2017,0
+Burkina Faso,2018,0
+Burkina Faso,2019,0
+Burkina Faso,2020,0
+Burkina Faso,2021,0
+Burkina Faso,2022,0
+Burkina Faso,2023,0
+Cameroon,2017,0
+Cameroon,2018,0
+Cameroon,2019,0
+Cameroon,2020,0
+Cameroon,2021,0
+Cameroon,2022,0
+Cameroon,2023,0
+Chad,2017,0
+Chad,2018,0
+Chad,2019,0
+Chad,2020,0
+Chad,2021,0
+Chad,2022,0
+Chad,2023,0
+Comoros,2017,0
+Comoros,2018,0
+Comoros,2019,0
+Comoros,2020,0
+Comoros,2021,0
+Comoros,2022,0
+Comoros,2023,0
+Cote d'Ivoire,2017,0
+Cote d'Ivoire,2018,0
+Cote d'Ivoire,2019,0
+Cote d'Ivoire,2020,0
+Cote d'Ivoire,2021,0
+Cote d'Ivoire,2022,0
+Cote d'Ivoire,2023,0
+Djibouti,2017,0
+Djibouti,2018,0
+Djibouti,2019,0
+Djibouti,2020,0
+Djibouti,2021,0
+Djibouti,2022,0
+Djibouti,2023,0
+Egypt,2017,0
+Egypt,2018,0
+Egypt,2019,0
+Egypt,2020,0
+Egypt,2021,0
+Egypt,2022,0
+Egypt,2023,0
+Gambia,2017,0
+Gambia,2018,0
+Gambia,2019,0
+Gambia,2020,0
+Gambia,2021,0
+Gambia,2022,0
+Gambia,2023,0
+Guinea,2017,0
+Guinea,2018,0
+Guinea,2019,0
+Guinea,2020,0
+Guinea,2021,0
+Guinea,2022,0
+Guinea,2023,0
+Guinea-Bissau,2017,0
+Guinea-Bissau,2018,0
+Guinea-Bissau,2019,0
+Guinea-Bissau,2020,0
+Guinea-Bissau,2021,0
+Guinea-Bissau,2022,0
+Guinea-Bissau,2023,0
+Guyana,2017,1
+Guyana,2018,1
+Guyana,2019,1
+Guyana,2020,1
+Guyana,2021,1
+Guyana,2022,1
+Guyana,2023,1
+Indonesia,2017,0
+Indonesia,2018,0
+Indonesia,2019,0
+Indonesia,2020,0
+Indonesia,2021,0
+Indonesia,2022,0
+Indonesia,2023,0
+Iraq,2017,1
+Iraq,2018,1
+Iraq,2019,1
+Iraq,2020,1
+Iraq,2021,1
+Iraq,2022,1
+Iraq,2023,1
+Jordan,2017,1
+Jordan,2018,1
+Jordan,2019,1
+Jordan,2020,1
+Jordan,2021,1
+Jordan,2022,1
+Jordan,2023,1
+Malaysia,2017,1
+Malaysia,2018,1
+Malaysia,2019,1
+Malaysia,2020,1
+Malaysia,2021,1
+Malaysia,2022,1
+Malaysia,2023,1
+Maldives,2017,1
+Maldives,2018,1
+Maldives,2019,1
+Maldives,2020,1
+Maldives,2021,1
+Maldives,2022,1
+Maldives,2023,1
+Mali,2017,0
+Mali,2018,0
+Mali,2019,0
+Mali,2020,0
+Mali,2021,0
+Mali,2022,0
+Mali,2023,0
+Mauritania,2017,0
+Mauritania,2018,0
+Mauritania,2019,0
+Mauritania,2020,0
+Mauritania,2021,0
+Mauritania,2022,0
+Mauritania,2023,0
+Morocco,2017,0
+Morocco,2018,0
+Morocco,2019,0
+Morocco,2020,0
+Morocco,2021,0
+Morocco,2022,0
+Morocco,2023,0
+Mozambique,2017,0
+Mozambique,2018,0
+Mozambique,2019,0
+Mozambique,2020,0
+Mozambique,2021,0
+Mozambique,2022,0
+Mozambique,2023,0
+Niger,2017,0
+Niger,2018,0
+Niger,2019,0
+Niger,2020,0
+Niger,2021,0
+Niger,2022,0
+Niger,2023,0
+Nigeria,2017,0
+Nigeria,2018,0
+Nigeria,2019,0
+Nigeria,2020,0
+Nigeria,2021,0
+Nigeria,2022,0
+Nigeria,2023,0
+Pakistan,2017,0
+Pakistan,2018,0
+Pakistan,2019,0
+Pakistan,2020,0
+Pakistan,2021,0
+Pakistan,2022,0
+Pakistan,2023,0
+Palestine,2017,0
+Palestine,2018,0
+Palestine,2019,0
+Palestine,2020,0
+Palestine,2021,0
+Palestine,2022,0
+Palestine,2023,0
+Qatar,2017,1
+Qatar,2018,1
+Qatar,2019,1
+Qatar,2020,1
+Qatar,2021,1
+Qatar,2022,1
+Qatar,2023,1
+Saudi Arabia,2017,1
+Saudi Arabia,2018,1
+Saudi Arabia,2019,1
+Saudi Arabia,2020,1
+Saudi Arabia,2021,1
+Saudi Arabia,2022,1
+Saudi Arabia,2023,1
+Senegal,2017,0
+Senegal,2018,0
+Senegal,2019,0
+Senegal,2020,0
+Senegal,2021,0
+Senegal,2022,0
+Senegal,2023,0
+Togo,2017,0
+Togo,2018,0
+Togo,2019,0
+Togo,2020,0
+Togo,2021,0
+Togo,2022,0
+Togo,2023,0
+Tunisia,2017,0
+Tunisia,2018,0
+Tunisia,2019,0
+Tunisia,2020,0
+Tunisia,2021,0
+Tunisia,2022,0
+Tunisia,2023,0
+Türkiye,2017,1
+Türkiye,2018,1
+Türkiye,2019,1
+Türkiye,2020,1
+Türkiye,2021,1
+Türkiye,2022,1
+Türkiye,2023,1
+Uganda,2017,0
+Uganda,2018,0
+Uganda,2019,0
+Uganda,2020,0
+Uganda,2021,0
+Uganda,2022,0
+Uganda,2023,0
+United Arab Emirates,2017,1
+United Arab Emirates,2018,1
+United Arab Emirates,2019,1
+United Arab Emirates,2020,1
+United Arab Emirates,2021,1
+United Arab Emirates,2022,1
+United Arab Emirates,2023,1
